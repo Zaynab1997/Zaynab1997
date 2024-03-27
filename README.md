@@ -14,7 +14,7 @@ Je suis chercheuse/ingénieure passionnée par la création et le développement
 - <strong> Outils et technologies :</strong> ROS1/2, git/gitlab, Bash, Linux OS, Bases de données.
 - <strong> Spécialités :</strong> Analyse de données, Fusion de données, Apprentissage automatique, filtres de Kalman, systèmes multi-robots.
 
-## Projets auxquels j'ai contribué :card_box:
+## Projets auxquels j'ai contribué 
 - Documentation complète du code développé dans ma thèse.
 - Assemblage et documentation des travaux antérieurs de l'équipe, en termes de thèses, stages et projets de fin d'études.
 - Acquisition multi-robot sous différentes plateformes telles que Turtlebot3, Summit_XL, F1tenth et Renault Zoé.
@@ -33,7 +33,7 @@ I'm a researcher/engineer with a passion for building and developing technologie
 - <strong> Tools and technologies:</strong> ROS1/2, git/gitlab, Bash, Linux OS, Databases.
 - <strong> Specialities:</strong> Data Analysis, Data Fusion, Machine Learning, kalman filters, multi-robot systems.
 
-## Projects Contributed to :card_box:
+## Projects Contributed to 
 - Full documentation of the developped code in my thesis.
 - Assembling and documentation of the team's previous work, in terms of thesis, internships and final year's projects.
 - Multi-robot acquisition under different plateforms such as Turtlebot3, Summit_XL, F1tenth, and Renault Zoé.
